@@ -108,7 +108,7 @@ static CGFloat const JIANJU = 10.f;
         self.textTimerLabel.textColor = [UIColor grayColor];
         self.textTimerLabel.numberOfLines = 0;
         self.textTimerLabel.textAlignment = NSTextAlignmentCenter;
-        self.textTimerLabel.font = [UIFont systemFontOfSize:11];
+        self.textTimerLabel.font = [UIFont systemFontOfSize:20];
         [self addSubview:self.textTimerLabel];
         
     }
